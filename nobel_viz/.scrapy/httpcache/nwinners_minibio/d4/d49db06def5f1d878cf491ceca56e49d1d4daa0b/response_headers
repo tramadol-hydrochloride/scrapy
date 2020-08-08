@@ -1,0 +1,18 @@
+Date: Thu, 06 Aug 2020 09:24:16 GMT
+Server: mw1327.eqiad.wmnet
+X-Content-Type-Options: nosniff
+P3P: CP="See https://en.wikipedia.org/wiki/Special:CentralAutoLogin/P3P for more info."
+Content-Language: en
+Vary: Accept-Encoding,Cookie,Authorization
+X-Request-Id: 81120263-236d-41ee-a11e-4e57b62ac1f6
+Last-Modified: Mon, 03 Aug 2020 02:55:20 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Encoding: gzip
+Age: 167785
+X-Cache: cp5011 miss, cp5007 hit/1
+X-Cache-Status: hit-front
+Server-Timing: cache;desc="hit-front"
+Strict-Transport-Security: max-age=106384710; includeSubDomains; preload
+X-Client-Ip: 114.189.141.147
+Cache-Control: private, s-maxage=0, max-age=0, must-revalidate
+Accept-Ranges: bytes

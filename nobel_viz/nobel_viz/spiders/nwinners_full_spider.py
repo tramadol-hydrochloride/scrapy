@@ -1,6 +1,8 @@
 import scrapy
 import re
 
+from nobel_viz.items import NWinnerItem
+
 BASE_URL = 'http://en.wikipedia.org'
 
 

@@ -1,0 +1,9 @@
+Date: Sat, 08 Aug 2020 08:00:58 GMT
+Server: Varnish
+X-Varnish: 995014941
+X-Cache: cp5002 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=08-Aug-2020;Path=/;HttpOnly;secure;Expires=Wed, 09 Sep 2020 00:00:00 GMT
+X-Client-Ip: 114.189.141.147
+Location: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Al_Gore%2C_Vice_President_of_the_United_States%2C_official_portrait_1994.jpg/220px-Al_Gore%2C_Vice_President_of_the_United_States%2C_official_portrait_1994.jpg

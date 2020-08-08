@@ -1,0 +1,9 @@
+Date: Sat, 08 Aug 2020 08:00:51 GMT
+Server: Varnish
+X-Varnish: 998474181
+X-Cache: cp5002 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=08-Aug-2020;Path=/;HttpOnly;secure;Expires=Wed, 09 Sep 2020 00:00:00 GMT
+X-Client-Ip: 114.189.141.147
+Location: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/HD.3F.001_%2811086394836%29.jpg/220px-HD.3F.001_%2811086394836%29.jpg

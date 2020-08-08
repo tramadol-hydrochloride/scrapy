@@ -1,18 +1,4 @@
-# -*- coding: utf-8 -*-
-
-# Define here the models for your scraped items
-#
-# See documentation in:
-# https://docs.scrapy.org/en/latest/topics/items.html
-
 import scrapy
-
-
-class NobelVizItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
-
 
 
 class NWinnerItem(scrapy.Item):
@@ -28,3 +14,12 @@ class NWinnerItem(scrapy.Item):
     place_of_birth = scrapy.Field()
     place_of_death = scrapy.Field()
     text = scrapy.Field()
+
+
+class NWinnerItemBio(scrapy.Item):
+    link = scrapy.Field()
+    name = scrapy.Field()
+    mini_bio = scrapy.Field()
+    image_urls = scrapy.Field()
+    bio_image = scrapy.Field()
+    images = scrapy.Field()

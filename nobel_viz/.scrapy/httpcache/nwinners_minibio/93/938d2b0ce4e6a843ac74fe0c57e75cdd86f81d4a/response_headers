@@ -1,0 +1,9 @@
+Date: Sat, 08 Aug 2020 08:02:00 GMT
+Server: Varnish
+X-Varnish: 988401965
+X-Cache: cp5002 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=08-Aug-2020;Path=/;HttpOnly;secure;Expires=Wed, 09 Sep 2020 00:00:00 GMT
+X-Client-Ip: 114.189.141.147
+Location: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Abiy_Ahmed_during_state_visit_of_Reuven_Rivlin_to_Ethiopia%2C_May_2018.jpg/220px-Abiy_Ahmed_during_state_visit_of_Reuven_Rivlin_to_Ethiopia%2C_May_2018.jpg

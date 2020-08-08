@@ -1,4 +1,3 @@
-
 BOT_NAME = 'nobel_viz'
 
 SPIDER_MODULES = ['nobel_viz.spiders']
@@ -6,9 +5,10 @@ NEWSPIDER_MODULE = 'nobel_viz.spiders'
 
 # MODIFIED SETTINGS BY ME
 HTTPCACHE_ENABLED = True
-ITEM_PIPELINES = {
-    'nobel_viz.pipelines.DropNonPersons': 1,
-}
+# ITEM_PIPELINES = {
+#     'nobel_viz.pipelines.NobelImagesPipeline': 10,
+# }
+IMAGES_STORE = 'images'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 # USER_AGENT = 'nobel_viz (+http://www.yourdomain.com)'

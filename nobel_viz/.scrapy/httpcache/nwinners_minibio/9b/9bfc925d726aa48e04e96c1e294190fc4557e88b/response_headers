@@ -1,0 +1,9 @@
+Date: Sat, 08 Aug 2020 08:01:44 GMT
+Server: Varnish
+X-Varnish: 990622015
+X-Cache: cp5002 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=08-Aug-2020;Path=/;HttpOnly;secure;Expires=Wed, 09 Sep 2020 00:00:00 GMT
+X-Client-Ip: 114.189.141.147
+Location: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/ETH-BIB-Willst%C3%A4tter%2C_Richard_%281872-1942%29-Portrait-Portr_07881.tif/lossy-page1-220px-ETH-BIB-Willst%C3%A4tter%2C_Richard_%281872-1942%29-Portrait-Portr_07881.tif.jpg

@@ -1,0 +1,9 @@
+Date: Sat, 08 Aug 2020 08:01:53 GMT
+Server: Varnish
+X-Varnish: 988571541
+X-Cache: cp5002 int
+X-Cache-Status: int-front
+Server-Timing: cache;desc="int-front"
+Set-Cookie: WMF-Last-Access=08-Aug-2020;Path=/;HttpOnly;secure;Expires=Wed, 09 Sep 2020 00:00:00 GMT
+X-Client-Ip: 114.189.141.147
+Location: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg/220px-Albert_Camus%2C_gagnant_de_prix_Nobel%2C_portrait_en_buste%2C_pos%C3%A9_au_bureau%2C_faisant_face_%C3%A0_gauche%2C_cigarette_de_tabagisme.jpg
